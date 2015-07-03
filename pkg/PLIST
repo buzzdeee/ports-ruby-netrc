@@ -1,0 +1,23 @@
+@comment $OpenBSD$
+${GEM_LIB}/cache/${DISTNAME}.gem
+${GEM_LIB}/gems/${DISTNAME}/
+${GEM_LIB}/gems/${DISTNAME}/LICENSE.md
+${GEM_LIB}/gems/${DISTNAME}/Readme.md
+${GEM_LIB}/gems/${DISTNAME}/changelog.txt
+${GEM_LIB}/gems/${DISTNAME}/data/
+${GEM_LIB}/gems/${DISTNAME}/data/default_only.netrc
+${GEM_LIB}/gems/${DISTNAME}/data/login.netrc
+${GEM_LIB}/gems/${DISTNAME}/data/newlineless.netrc
+${GEM_LIB}/gems/${DISTNAME}/data/password.netrc
+${GEM_LIB}/gems/${DISTNAME}/data/permissive.netrc
+${GEM_LIB}/gems/${DISTNAME}/data/sample.netrc
+${GEM_LIB}/gems/${DISTNAME}/data/sample_multi.netrc
+${GEM_LIB}/gems/${DISTNAME}/data/sample_multi_with_default.netrc
+${GEM_LIB}/gems/${DISTNAME}/data/sample_with_default.netrc
+${GEM_LIB}/gems/${DISTNAME}/lib/
+${GEM_LIB}/gems/${DISTNAME}/lib/netrc.rb
+${GEM_LIB}/gems/${DISTNAME}/test/
+${GEM_LIB}/gems/${DISTNAME}/test/test_lex.rb
+${GEM_LIB}/gems/${DISTNAME}/test/test_netrc.rb
+${GEM_LIB}/gems/${DISTNAME}/test/test_parse.rb
+${GEM_LIB}/specifications/${DISTNAME}.gemspec
