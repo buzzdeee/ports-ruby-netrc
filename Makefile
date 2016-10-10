@@ -1,8 +1,8 @@
-# $OpenBSD: Makefile,v 1.23 2015/05/14 17:56:49 jasper Exp $
+# $OpenBSD$
 
 COMMENT =	read and update netrc files
 
-DISTNAME =	netrc-0.10.3
+DISTNAME =	netrc-0.11.0
 CATEGORIES =	net
 
 # MIT
